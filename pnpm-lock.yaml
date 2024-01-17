@@ -69,6 +69,19 @@ importers:
         specifier: ^5.1.6
         version: 5.3.3
 
+  packages/components-ui:
+    dependencies:
+      react:
+        specifier: ^18.2.0
+        version: 18.2.0
+      typescript:
+        specifier: ^5.1.6
+        version: 5.3.3
+    devDependencies:
+      '@types/react':
+        specifier: ^18.2.20
+        version: 18.2.48
+
 packages:
 
   /@aashutoshrathi/word-wrap@1.2.6:

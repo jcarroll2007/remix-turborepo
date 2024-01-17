@@ -1,0 +1,21 @@
+{
+  "name": "@jordanco/components-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "./src/index.tsx",
+  "types": "./src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.20"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
