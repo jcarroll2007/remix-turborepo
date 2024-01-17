@@ -10,6 +10,9 @@ importers:
 
   apps/remix-app:
     dependencies:
+      '@jordanco/components-ui':
+        specifier: workspace:*
+        version: link:../../packages/components-ui
       '@remix-run/css-bundle':
         specifier: ^2.5.0
         version: 2.5.0

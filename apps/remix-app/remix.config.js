@@ -5,4 +5,6 @@ export default {
   // assetsBuildDirectory: "public/build",
   // publicPath: "/build/",
   // serverBuildPath: "build/index.js",
+  serverDependenciesToBundle: ["@jordanco/components-ui"],
+  watchPaths: ["./../../packages/components-ui/src/**/*"],
 };

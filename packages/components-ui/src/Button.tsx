@@ -5,7 +5,7 @@ interface ButtonProps {
 }
 
 const Button: React.FunctionComponent<ButtonProps> = ({ onClick }) => {
-  return <button onClick={onClick}>test</button>;
+  return <button onClick={onClick}>test change</button>;
 };
 
 export { Button };
